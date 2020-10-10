@@ -36,11 +36,15 @@
 - Finally got into CS Slack. -_-#
 - Did more research about PDF format:
   - https://web.archive.org/web/20141010035745/http://gnupdf.org/Introduction_to_PDF#General_structure
-- Found some promising npm packages on PDF:
+- Found a promising npm packages on PDF:
   - https://www.npmjs.com/package/pdfkit
   
+** Difficulties and Failures:**
+- Team wasn't productive in this week. Communication wasn't smooth as members are having their midterms.
+- Meeting with the sponsor was cancelled but rescheduling hasn't been done since she was on vacation.
+- Team weighing on tech stacks. Web frameworks seem easy to pick up and use but Python seems good, too. During the summer, Code for Good had already made a Ruby on Rails app that provides a web interface for this project. Although there wasn't mcuh achinevement on the PDF side, we could still continue from there.  
 
 **Things Planned:**
-1. Planned meeting with the project sponsor was postponed. Will have the meeting this week.
+1. Planned meeting with the sponsor was postponed. Will have the meeting this week.
 2. Research more on existing libraries/packages that could help decoding/making PDF files with accessible elements.
 3. Need to discuss whether to make a web app (so we can use the existing npm packages which seems to be pretty helpful) or start with a local app programmed in C/C++/Python..
