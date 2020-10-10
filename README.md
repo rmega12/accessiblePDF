@@ -30,3 +30,17 @@
 1. Will have the second meeting with the sponsor next Friday.
 2. Research more on existing libraries/packages that could help decoding/making PDF files with accessible elements. If certain language/framework has some powerful packages already, this project will incline to use that in order to avoid re-inventing the wheel.
 3. Think about tech stack.
+
+### Week of 10/04/2020
+**Things Done:**
+- Finally got into CS Slack. -_-#
+- Did more research about PDF format:
+  - https://web.archive.org/web/20141010035745/http://gnupdf.org/Introduction_to_PDF#General_structure
+- Found some promising npm packages on PDF:
+  - https://www.npmjs.com/package/pdfkit
+  
+
+**Things Planned:**
+1. Planned meeting with the project sponsor was postponed. Will have the meeting this week.
+2. Research more on existing libraries/packages that could help decoding/making PDF files with accessible elements.
+3. Need to discuss whether to make a web app (so we can use the existing npm packages which seems to be pretty helpful) or start with a local app programmed in C/C++/Python..
